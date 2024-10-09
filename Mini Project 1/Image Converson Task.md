@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This first mini-project is based in the scenario below. The goal is to get familiar using Python PIL library and manipulate images.
+This first mini-project is based on the scenario below. The goal is to get familiar using Python PIL library and manipulate images.
 
 Scenario: *Your company is in the process of updating its website, and they've hired a design contractor to create some new icon graphics for the site. But the contractor has delivered the final designs in the wrong format -- rotated 90° and too large. You're not able to get in contact with the designers and your own deadline is approaching fast. You'll need to use Python to get these images ready for launch.*
 
@@ -31,4 +31,8 @@ Use the Python Imaging Library to do the following to a batch of images:
 
 ## Results
 
-The code shows the implementation of what it was required. All images were succesfully modified upon request. This image was the output of an example to verify that the program does what it was supposed to do.
+The [code](https://github.com/carlos-p-t/Google-IT-Automation-Course/blob/main/Mini%20Project%201/image_conversion.py) shows the implementation of what was required. All images were succesfully modified upon request. The output was verified after getting information of resulting images, an example can be seen in the image below.
+
+<p align="center">
+  <img src="https://github.com/carlos-p-t/Google-IT-Automation-Course/blob/main/Mini%20Project%201/test_result.jpg" />
+</p>
