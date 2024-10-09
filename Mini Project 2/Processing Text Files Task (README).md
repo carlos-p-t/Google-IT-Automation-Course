@@ -17,4 +17,23 @@ Scenario: *You're working at a company that sells second-hand cars. Your company
 
 ## Results
 
-Through the python OS module, the data in the .txt files was retrieved and stored in dictionaries as shown in the code. Since dictionaries are key-value data structures, they can be easily converted to JSON format. The program does that when making an HTTP POST request to the server. The following images show the before and after the program was executed.
+Through the python OS module, the data in the .txt files was retrieved and stored in dictionaries as shown in the [code](https://github.com/carlos-p-t/Google-IT-Automation-Course/blob/main/Mini%20Project%202/data_processing.py). Since dictionaries are key-value data structures, they can be easily converted to JSON format. The program does that when making an HTTP POST request to the server. The following images show the before and after the program was executed.
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/carlos-p-t/Google-IT-Automation-Course/blob/main/Mini%20Project%202/before.jpg" alt="Before" width="500">
+        <br>
+        Before
+      </td>
+      <td align="center">
+        <img src="https://github.com/carlos-p-t/Google-IT-Automation-Course/blob/main/Mini%20Project%202/after.jpg" alt="After" width="500">
+        <br>
+        After
+      </td>
+    </tr>
+  </table>
+</div>
+
+The websited showed only 1 feedback before executing the program (left). After the execution, all feedbacks were successfully added to the website (right). Only some of them are shown due to space limitations.
