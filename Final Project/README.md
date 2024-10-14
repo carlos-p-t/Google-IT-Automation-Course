@@ -70,7 +70,7 @@ The aim of the [second program](https://github.com/carlos-p-t/Google-IT-Automati
 
 ### Uploading the Descriptions
 
-Following the images description format, the program separates the information into 4 categories: *"name", "weight", "description", and "image_name"*. Then, the information is converted into JSON object, similar to the one shown below:
+Following the images description format, [the program](https://github.com/carlos-p-t/Google-IT-Automation-Course/blob/main/Final%20Project/scripts/run.py) separates the information into 4 categories: *"name", "weight", "description", and "image_name"*. Then, the information is converted into JSON object, similar to the one shown below:
 
 *{"name": "Watermelon", "weight": 500, "description": "Watermelon is good for relieving heat, eliminating annoyance and quenching thirst. It contains a lot of water, which is good for relieving the symptoms of acute fever immediately. The sugar and salt contained in watermelon can diuretic and eliminate kidney inflammation. Watermelon also contains substances that can lower blood pressure.", "image_name": "010.jpeg"}*
 
