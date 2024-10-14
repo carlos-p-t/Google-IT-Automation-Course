@@ -1,6 +1,6 @@
 # Google-IT-Automation-Course
 
-The [Google Automation Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation) is a series of courses which aim to provide tools to perform automation into daily tasks. This repository contains the last and most important projects given during the courses. A brief description of them is shown below.
+The [Google IT Automation Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation) is a series of courses which aim to provide tools to perform automation into daily tasks. This repository contains the last and most important projects given during the courses. A brief description of them is shown below.
 
 ## Mini-Project 1
 
